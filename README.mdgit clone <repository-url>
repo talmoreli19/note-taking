@@ -1,0 +1,40 @@
+# note-taking
+
+Note-Taking Web App
+
+This is a simple web application for taking and managing notes. Users can input notes, including subjects and content. The application provides the ability to add, edit, and display notes in a user-friendly manner.
+Features
+
+    Add Notes: Enter the note's subject and content, then click the "Add" button to create a new note.
+
+    Edit Notes: Double-click on an existing note's content to edit it directly. Click outside the editing area or press Enter to save the changes.
+
+    Automatic Timestamp: Each note includes a timestamp showing the date and time it was created.
+
+    Modal Notifications: A modal notification is displayed when a note is successfully added, providing feedback to the user.
+
+Getting Started
+
+    Clone this repository to your local machine.
+
+bash
+
+git clone <repository-url>
+
+    Open the index.html file in your web browser to start using the application.
+
+Usage
+
+    Enter the subject and content of your note in the respective input fields.
+
+    Click the "Add" button to create a new note.
+
+    To edit a note, double-click on its content. Make your changes and either click outside the editing area or press Enter to save.
+
+    The application automatically adds a timestamp to each note to indicate when it was created.
+
+    A modal notification appears when a note is successfully added.
+
+Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to help improve this note-taking web app.
